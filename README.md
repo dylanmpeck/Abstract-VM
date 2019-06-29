@@ -10,9 +10,17 @@ Run make and an executable will be created. Run "./avm filename" to read an inst
 
 <strong>Running a normal file: </strong>
 
+![alt-text](https://github.com/dylanmpeck/Abstract-VM/blob/master/screenshots/simpleTest.png)
+
 <strong>Running from stdin: </strong>
 
+![alt-text](https://github.com/dylanmpeck/Abstract-VM/blob/master/screenshots/stdin.png)
+
 <strong>Error handling: </strong>
+
+![alt-text](https://github.com/dylanmpeck/Abstract-VM/blob/master/screenshots/error1.png)
+![alt-text](https://github.com/dylanmpeck/Abstract-VM/blob/master/screenshots/error2.png)
+![alt-text](https://github.com/dylanmpeck/Abstract-VM/blob/master/screenshots/error3.png)
 
 ## AVM syntax
 
